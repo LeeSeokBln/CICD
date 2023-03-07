@@ -16,6 +16,12 @@ artifacts:
   files:
     - 'appspec.yml'
 ```
+## 버전명시가 필요할 시
+```
+  install:
+    runtime-versions:
+      <language>: 3.7
+```
 # appspec.yaml
 ```
 version: 0.0
