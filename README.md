@@ -20,7 +20,7 @@ artifacts:
 ```
   install:
     runtime-versions:
-      <language>: <version>  #EX) pyton: 3.8
+      <language>: <version>  #EX) python: 3.8
 ```
 # appspec.yaml
 ```
